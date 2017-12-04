@@ -1,1 +1,4 @@
 file is created.
+
+
+git branch --set-upstream-to=origin/<branch> master
